@@ -1,26 +1,25 @@
-{
-    "0": {
-      "id": 11,
-      "name": "Emefile Francis",
-      "username": "Francis",
-      "email": "francis.emefile@fidelitybank.ng",
-      "address": {
-        "street": "Kofo Abayomi",
-        "suite": "Plot 2",
-        "city": "Victoria Island, Lagos",
-        "zipcode": "101424",
-        "geo": {
-          "lat": "-37.3159",
-          "lng": "81.1496"
+[
+    {
+        "id": 11,
+        "name": "Emefile Francis",
+        "username": "Francis",
+        "email": "francis.emefile@fidelitybank.ng",
+        "address": {
+            "street": "Kofo Abayomi",
+            "suite": "Plot 2",
+            "city": "Victoria Island, Lagos",
+            "zipcode": "101424",
+            "geo": {
+                "lat": "-37.3159",
+                "lng": "81.1496"
+            }
+        },
+        "phone": "234-081-425-46090",
+        "website": "medium.com/emefilefranklin",
+        "company": {
+            "name": "Fidelity Bank Plc",
+            "catchPhrase": "Cybersecurity Engineer, Programmer",
+            "bs": "fast delivery"
         }
-      },
-      "phone": "234-081-425-46090",
-      "website": "medium.com/emefilefranklin",
-      "company": {
-        "name": "Fidelity Bank Plc",
-        "catchPhrase": "Cybersecurity Engineer, Programmer",
-        "bs": "fast delivery"
-      }
-    },
-    "id": 11
-  }
+    }
+]
